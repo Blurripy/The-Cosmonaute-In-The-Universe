@@ -6,27 +6,25 @@
         "url": "https:\/\/cdn.discordapp.com\/attachments\/903002196013101056\/928336625765871686\/New_Project_1_C76C703.png"
     },
     "colors": {
-        "brand": -10522943,
-        "brand_500": -10522943,
-        "brand_600": -10522943,
-        "brand_new": -10522943,
+        "brand": -14013910,
+        "brand_500": -14013910,
+        "brand_600": -14013910,
+        "brand_new": -14013910,
         "flexInputIconColor": -12895429,
-        "link": -39579,
-        "link_light": -10522943,
+        "link": -15921907,
+        "link_light": -16185079,
         "material_grey_50": -15000543,
         "uikit_btn_bg_color_selector_background_accent_light": -15329762,
-        "uikit_btn_bg_color_selector_brand": -10839972,
-        "uikit_btn_bg_color_selector_green": -15307272,
-        "uikit_btn_bg_color_selector_red": -515,
-        "uikit_btn_bg_color_selector_secondary_dark": -48317,
+        "uikit_btn_bg_color_selector_green": -16777216,
+        "uikit_btn_bg_color_selector_red": 1610612221,
+        "uikit_btn_bg_color_selector_secondary_dark": -16777216,
         "uikit_btn_bg_color_selector_secondary_light": -15000543,
-        "uikit_btn_compound_color_selector_light": -10522943
+        "uikit_btn_compound_color_selector_light": -1124073472
     },
     "drawable_tints": {
-        "drawable_button_grey": -12037448,
-        "drawable_overlay_channels_active_dark": -4605237,
-        "drawable_overlay_channels_selected_dark": -11840138,
-        "drawable_overlay_channels_selected_light": -12563091
+        "drawable_button_grey": -2014449928,
+        "drawable_overlay_channels_active_dark": 2062939637,
+        "drawable_overlay_channels_selected_dark": -2132351258
     },
     "fonts": {},
     "manifest": {
@@ -36,7 +34,7 @@
         "version": "1.0"
     },
     "simple_colors": {
-        "accent": -817528,
+        "accent": -16185079,
         "background": 823925788,
         "background_secondary": 555161367,
         "mention_highlight": 1920367002
