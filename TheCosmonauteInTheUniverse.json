@@ -1,0 +1,45 @@
+{
+    "background": {
+        "alpha": 255,
+        "blur_radius": 0,
+        "overlay_alpha": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/903002196013101056\/928336625765871686\/New_Project_1_C76C703.png"
+    },
+    "colors": {
+        "brand": -10522943,
+        "brand_500": -10522943,
+        "brand_600": -10522943,
+        "brand_new": -10522943,
+        "flexInputIconColor": -12895429,
+        "link": -39579,
+        "link_light": -10522943,
+        "material_grey_50": -15000543,
+        "uikit_btn_bg_color_selector_background_accent_light": -15329762,
+        "uikit_btn_bg_color_selector_brand": -10839972,
+        "uikit_btn_bg_color_selector_green": -15307272,
+        "uikit_btn_bg_color_selector_red": -515,
+        "uikit_btn_bg_color_selector_secondary_dark": -48317,
+        "uikit_btn_bg_color_selector_secondary_light": -15000543,
+        "uikit_btn_compound_color_selector_light": -10522943
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12037448,
+        "drawable_overlay_channels_active_dark": -4605237,
+        "drawable_overlay_channels_selected_dark": -11840138,
+        "drawable_overlay_channels_selected_light": -12563091
+    },
+    "fonts": {},
+    "manifest": {
+        "author": "Blurripy",
+        "name": "TheCosmonauteInTheUniverse",
+        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/Revamp.json",
+        "version": "1.0"
+    },
+    "simple_colors": {
+        "accent": -817528,
+        "background": 823925788,
+        "background_secondary": 555161367,
+        "mention_highlight": 1920367002
+    },
+    "raws": {}
+}
