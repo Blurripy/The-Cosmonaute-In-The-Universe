@@ -30,8 +30,8 @@
     "manifest": {
         "author": "Blurripy",
         "name": "TheCosmonauteInTheUniverse",
-        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/TheCosmonauteInTheUniverse.json",
-        "version": "1.2"
+        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/Revamp.json",
+        "version": "1.0"
     },
     "simple_colors": {
         "accent": -16185079,
@@ -39,7 +39,5 @@
         "background_secondary": 555161367,
         "mention_highlight": 1920367002
     },
-    "raws": {
-        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/879469727255244801\/928464206179729418\/PPL.mp3"
-    }
+    "raws": {}
 }
