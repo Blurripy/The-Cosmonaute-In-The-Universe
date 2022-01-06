@@ -39,5 +39,7 @@
         "background_secondary": 555161367,
         "mention_highlight": 1920367002
     },
-    "raws": {}
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/879469727255244801\/928464206179729418\/PPL.mp3"
+    }
 }
