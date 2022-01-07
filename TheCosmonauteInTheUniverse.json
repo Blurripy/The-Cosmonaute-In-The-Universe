@@ -3,7 +3,7 @@
         "alpha": 255,
         "blur_radius": 0,
         "overlay_alpha": 0,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/903002196013101056\/928336625765871686\/New_Project_1_C76C703.png"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/923935731154583643\/928808597142528070\/New_Project_1_C76C703.png"
     },
     "colors": {
         "brand": -14013910,
@@ -19,10 +19,11 @@
         "uikit_btn_bg_color_selector_red": 1610612221,
         "uikit_btn_bg_color_selector_secondary_dark": -16777216,
         "uikit_btn_bg_color_selector_secondary_light": -15000543,
-        "uikit_btn_compound_color_selector_light": -1124073472
+        "uikit_btn_compound_color_selector_light": -1124073472,
+        "primary_dark_660": 1459617792
     },
     "drawable_tints": {
-        "drawable_button_grey": -2014449928,
+        "drawable_button_grey": -8288631,
         "drawable_overlay_channels_active_dark": 2062939637,
         "drawable_overlay_channels_selected_dark": -2132351258
     },
