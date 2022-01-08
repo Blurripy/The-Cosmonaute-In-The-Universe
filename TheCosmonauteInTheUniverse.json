@@ -1,9 +1,9 @@
 {
     "background": {
         "alpha": 255,
-        "blur_radius": 0,
-        "overlay_alpha": 0,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/923935731154583643\/928808597142528070\/New_Project_1_C76C703.png"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/923935731154583643\/928808597142528070\/New_Project_1_C76C703.png",
+        "overlay_alpha": 50,
+        "blur_radius": 15
     },
     "colors": {
         "brand": -14013910,
@@ -11,8 +11,8 @@
         "brand_600": -14013910,
         "brand_new": -14013910,
         "flexInputIconColor": -12895429,
-        "link": -15921907,
-        "link_light": -16185079,
+        "link": -10197916,
+        "link_light": -4671304,
         "material_grey_50": -15000543,
         "uikit_btn_bg_color_selector_background_accent_light": -15329762,
         "uikit_btn_bg_color_selector_green": -16777216,
@@ -29,13 +29,13 @@
     },
     "fonts": {},
     "manifest": {
+        "version": "1.3",
+        "name": "The Cosmonaute In The Universe",
         "author": "Blurripy",
-        "name": "TheCosmonauteInTheUniverse",
-        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/TheCosmonauteInTheUniverse.json",
-        "version": "1.1"
+        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/TheCosmonauteInTheUniverse.json"
     },
     "simple_colors": {
-        "accent": -16185079,
+        "accent": -1052689,
         "background": 823925788,
         "background_secondary": 555161367,
         "mention_highlight": 1920367002
